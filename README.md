@@ -1,6 +1,6 @@
 
 
-- 👋 Swai here, feel free to check out what I've been working on as part of my learning in my repos.
+- 👋 Feel free to check out what I've been working on as part of my learning in my repos.
 <!-- - 📫 How to reach me ... -->
  
 <!---
